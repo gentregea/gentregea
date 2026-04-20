@@ -1,5 +1,5 @@
 # Hi, I'm Gen Tregea👋 
-### Systems Optimiser & Master Data Specialist.
+### Procurement Systems Optimiser & SAP Master Data Specialist.
 
 Focused on the intersection of **Supply Chain Architecture** and **Data Remediation**. I specialise in transforming legacy messy data into high-integrity assets for SAP ECC and S/4HANA environments.
 
