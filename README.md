@@ -14,7 +14,8 @@ Focused on the intersection of **Supply Chain Architecture** and **Data Remediat
 * **Learning:** Advanced SAP MDG, Supply Chain Analytics & Data Science pathways.
 
 ---
-**Portfolio:** [Link pending]
+### Portfolio
+**Technical Case Studies & System Documentation:** [View Portfolio on Notion](https://thinkable-mosquito-ab4.notion.site/Gen-Tregea-Systems-Data-Command-Center-Public-Portfolio-348d425d8ef0802a9310d6f6f2665781?source=copy_link)
 
 ---
 **Fun Fact:** Currently completing a 5,000 piece jigsaw puzzle for fun - the pattern matching never stops! 🧩
